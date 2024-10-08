@@ -1,40 +1,6 @@
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Mohamed(Sy|nd)" title="👋 Hi there! I'm (Mohamed(Sy|nd))"/>]
 
-<!--
-**MohamedSy1/MohamedSy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
-<table>
-	<tr>
-	</tr>
-	<tr>
-		<th>
-			<h2><code>𝚂𝚙𝚎𝚌𝚒𝚊𝚕</code>: 𝙸'𝚖 building a porfolio!</h2>
-		</th>
-	</tr>
-	<tr>
-		<td>
-				<b>𝙻𝚒𝚜𝚝 𝚘𝚏 𝚖𝚢 𝚛𝚎𝚙𝚘𝚜 𝚙𝚊𝚛𝚝𝚒𝚌𝚒𝚙𝚊𝚝𝚒𝚗𝚐 𝚒𝚗 𝚝𝚑𝚒𝚜 𝚊𝚠𝚎𝚜𝚘𝚖𝚎 𝚎𝚟𝚎𝚗𝚝:<b>
-				<ul>
-					<li><a href="https://github.com/Raymo111/emoji">𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚎𝚖𝚘𝚓𝚒</a></li>
-					<li><a href="https://github.com/Raymo111/drracket-customization">𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚍𝚛𝚛𝚊𝚌𝚔𝚎𝚝-𝚌𝚞𝚜𝚝𝚘𝚖𝚒𝚣𝚊𝚝𝚒𝚘𝚗</a></li>
-					<li><a href="https://github.com/Raymo111/i3lock-color">𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛</a></li>
-				</ul>
-		</td>
-	</tr>
-</table>
--->
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚠𝚒𝚝𝚑 𝚋𝚘𝚕𝚍 𝚒𝚍𝚎𝚊𝚜
 - 💼 𝚁𝚞𝚗𝚗𝚒𝚗𝚐 [𝚘𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎](https://github.com/CharaChorder) 𝚊𝚝 [CharaChorder <img src="https://avatars.githubusercontent.com/u/103693671?s=200&v=4" height="30em" align="center" alt="CharaChorder Logo" title="CharaChorder Logo"/>](https://CharaChorder.com)
