@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Mohamed(Sy|nd)" title="👋 Hi there! I'm (Mohamed(Sy|nd))"/>]
+<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Mohamed(Sy|nd)" title="👋 Hi there! I'm (Mohamed(Sy|nd))"/>
 
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
