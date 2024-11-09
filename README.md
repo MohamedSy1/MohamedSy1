@@ -1,36 +1,21 @@
-
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 Full Stack Software Developer
-- 💼 working [𝚘𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎](https://github.com/https://github.com/idrinth-api-bench/issues) 𝚊𝚝 [API-Bench <img src="./168795631.png" height="30em" align="center" alt="CharaChorder Logo" title="API-Bench"/>](https://idrinth-api-ben.ch/)
-- 🎓 I graduated from The Marcy Lab School for Software Engineering where I learned full stack web development. 
-
-## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
-```yaml
-- working on my portfolio and I am in the job market looking for a next role!
-```
-<!-- - 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚊 𝚗𝚎𝚠 [**𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛**](https://github.com/Raymo111/i3lock-color) 𝚛𝚎𝚕𝚎𝚊𝚜𝚎 -->
-- 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
-	- 𝙶𝚘 𝚜𝚔𝚢𝚍𝚒𝚟𝚒𝚗𝚐!
-- On my free time I like to
-    - code
-    - play soccer
-    - play basketball
-    - play table tennis
+# 💫 About Me:
+👋 Hello! I'm Mohamed Sy<br>I'm a Full Stack Developer passionate about building impactful web applications and data solutions. My journey in tech has equipped me with a versatile skill set, from JavaScript, TypeScript, and Python to tools like Snowflake and dbt-cloud, enabling me to tackle complex projects across the development spectrum.<br><br>🔧 Technologies & Skills<br>Frontend: React, TypeScript, HTML, CSS, Tailwind CSS<br>Backend: Node.js, Express, PostgreSQL, SQL<br>Data Engineering: Snowflake, dbt-cloud, ETL & ELT process, Python<br>Testing & DevOps: Cypress, Git/GitHub, OWASP, Figma<br>🚀 Featured Projects<br>API-bench - A framework for testing REST APIs and website performance, featuring Cypress testing and TypeScript-based enhancements.<br>ELT-pipeline-Olympic - A data pipeline project using Snowflake, dbt, and Streamlit to analyze Olympic data and visualize trends in performance and participation.<br>Tenant Voice - A platform for NYCHA residents to report housing issues, complete with a RESTful API and integrated Cloudinary storage for enhanced user experience.<br>🧑‍💼 Experience<br>Emerging Leaders Program - Collaborated on a real-world business proposal with guidance from JP Morgan leaders.<br>BeepBoop - Led social media campaigns promoting language learning, enhancing content creation skills.<br>🎓 Education<br>Software Engineering Fellowship, The Marcy Lab School<br>I completed 2,000+ hours of coursework in web development, CS fundamentals, and leadership training, building a strong foundation in modern tech stacks and agile development.
 
 
-## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-![Metrics](https://metrics.lecoq.io/MohamedSy1?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mohamed-s-179b20230) 
 
-## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MohamedSy1&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MohamedSy1&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedSy1&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Raymo111 on LinkedIn"/>](https://www.linkedin.com/in/mohamed-s-179b20230/)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MohamedSy1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+---
+[![](https://visitcount.itsvg.in/api?id=MohamedSy1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!--
-- 𝙻𝚊𝚝𝚎𝚜𝚝 𝚝𝚠𝚎𝚎𝚝 𝚊𝚌𝚝𝚒𝚘𝚗 𝚏𝚛𝚘𝚖 [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚣𝚑𝚒𝚒𝚒𝚢𝚊𝚗𝚐/𝚣𝚑𝚒𝚒𝚒𝚢𝚊𝚗𝚐](https://github.com/zhiiiyang/zhiiiyang)
-- 𝙻𝚊𝚝𝚎𝚜𝚝 𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖 𝚙𝚘𝚜𝚝𝚜 𝚊𝚗𝚍 𝚠𝚎𝚊𝚝𝚑𝚎𝚛 𝚏𝚛𝚘𝚖 [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚝𝚑𝚖𝚜𝚐𝚋𝚛𝚝/𝚝𝚑𝚖𝚜𝚐𝚋𝚛𝚝](https://github.com/thmsgbrt/thmsgbrt)
-- 𝙰𝚕𝚕-𝚝𝚒𝚖𝚎 𝙶𝚒𝚝𝙷𝚞𝚋 𝚜𝚝𝚊𝚝𝚜 𝚏𝚛𝚘𝚖 [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚖𝚊𝚛𝚔𝚎𝚝𝚙𝚕𝚊𝚌𝚎/𝚊𝚌𝚝𝚒𝚘𝚗𝚜/𝚙𝚛𝚘𝚏𝚒𝚕𝚎-𝚛𝚎𝚊𝚍𝚖𝚎-𝚜𝚝𝚊𝚝𝚜](https://github.com/marketplace/actions/profile-readme-stats)
--->
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
